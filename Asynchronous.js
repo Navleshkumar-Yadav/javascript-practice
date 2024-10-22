@@ -8,9 +8,10 @@ function createTimer(time, timerId) {
 console.log("Starting the code");
 createTimer(2000,1);
 createTimer(0,2);
-console.log("Starting a loop");
+console.log("Starting a loops");
 for(let i = 0 ; i<10000000000; i++){
 
 }
 console.log("Loop is done");
 console.log("Last line of code done");
+console.log("hello");
